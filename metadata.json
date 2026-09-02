@@ -1,0 +1,6 @@
+{
+  "name": "RuBarRu Cafe, Bhopal",
+  "description": "Ultra-premium restaurant and lounge website for RuBarRu Cafe, Bhopal — where evenings come alive with exceptional flavours, craft mixology, and vibrant nightlife.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
